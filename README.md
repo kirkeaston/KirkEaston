@@ -1,10 +1,6 @@
 <img src="https://github.com/kirkeaston/KirkEaston/blob/main/header.png" alt="banner that says Kirk Easton: software developer, positive culture builder, dreamer">
-<!--
-**kirkeaston/KirkEaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-##   
   
 
 <a href="https://github.com/kirkeaston" target="_blank">
