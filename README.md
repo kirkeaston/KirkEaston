@@ -38,7 +38,7 @@ I’m a full-stack developer who has recently completed a software engineering i
 - ❓ Ask me about anything related to a software bootcamp  
   
 
-- ⚡ Fun fact: I recently learn that I sleep walk  
+- ⚡ Fun fact: I recently learned that I sleep walk  
 
 
 </td><td valign="top" width="50%">
