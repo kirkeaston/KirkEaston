@@ -32,7 +32,7 @@ I’m a full-stack developer who has recently completed a software engineering i
 - 🔭 I’m currently working as a Software Engineering Immersive Resident  
   
 
-- 🌱 I’m currently learning Docker, Redis, and NGINX  
+- 🌱 I’m currently learning Java, .net, and C# 
   
 
 - ❓ Ask me about anything related to a software bootcamp  
