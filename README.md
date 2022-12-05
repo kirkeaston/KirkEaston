@@ -12,15 +12,13 @@
 <a href="https://www.facebook.com/easton.kirk" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
   
 
 
 
 ### Glad you stopped through!   
-I’m a full-stack developer who has recently completed a software engineering immersive program. I love technology and the amazing heights that can be accomplished through dedication, humility, and an eagerness to learn!  
+I’m a full-stack developer and I love technology and the amazing heights that can be accomplished through dedication, humility, and an eagerness to learn!  
   
 
 <br/>  
@@ -29,10 +27,10 @@ I’m a full-stack developer who has recently completed a software engineering i
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working as a Software Engineering Immersive Resident  
+- 🔭 I’m currently working as a Software Engineer  
   
 
-- 🌱 I’m currently learning Java, .net, and C# 
+- 🌱 I’m currently learning Apex, .net, and C# 
   
 
 - ❓ Ask me about anything related to a software bootcamp  
