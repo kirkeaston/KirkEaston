@@ -39,13 +39,6 @@ I’m a full-stack developer and I love technology and the amazing heights that 
 - ⚡ Fun fact: I recently learned that I sleep walk  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
 </td></tr></table>  
 
 <br/>  
