@@ -27,13 +27,13 @@ I’m a full-stack developer and I love technology and the amazing heights that 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working as a Software Engineer  
+- 🔭 I’m currently looking for a job as a software developer
   
 
-- 🌱 I’m currently learning Apex, .net, and C# 
+- 🌱 I’m currently learning GraphQL
   
 
-- ❓ Ask me about anything related to a software bootcamp  
+- ❓ Ask me about anything related to my last job as a primarily backend dev for Conga 
   
 
 - ⚡ Fun fact: I recently learned that I sleep walk  
