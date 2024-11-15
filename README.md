@@ -30,7 +30,7 @@ I’m a full-stack developer and I love technology and the amazing heights that 
 - 🌱 I’m currently learning GraphQL
   
 
-- ❓ Ask me about anything related to my last job as a primarily backend dev for Conga 
+- ❓ Ask me about anything related to my last job as a developer for Conga 
   
 
 - ⚡ Fun fact: I recently learned that I sleep walk  
